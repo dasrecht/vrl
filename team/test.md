@@ -1,7 +1,7 @@
 ---
 name: dsf
 position: asdf
-photo: /images/uploads/wooly.jpg
+photo: /images/wooly.jpg
 funktion: adf
 twitter: asdf
 ---
